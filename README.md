@@ -1,9 +1,5 @@
 # PRODIGY_FSWD_03 
-Of course! Here's a **clean, single-page `README.md`** for your **Task-03: Local Store E-commerce Platform** project using the MERN stack — perfect for GitHub:
 
----
-
-````markdown
 # 🛍️ Local Store E-commerce Platform (MERN Stack)
 
 A fully functional e-commerce web application developed using the MERN stack. This project allows customers to browse, add to cart, and purchase products from a local store online. Built as part of my Full Stack Developer internship at **Prodigy Infotech**.
@@ -38,8 +34,8 @@ A fully functional e-commerce web application developed using the MERN stack. Th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/local-ecommerce-platform.git
-cd local-ecommerce-platform
+git clone https://github.com/Kartik87580/ PRODIGY_FSWD_03.git
+cd  PRODIGY_FSWD_03 
 ````
 
 ---
@@ -101,8 +97,7 @@ npm start
 
 **Kartik Jambucha**
 Full Stack Developer Intern @ Prodigy Infotech
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-📫 [kartik@example.com](mailto:kartik@example.com)
+
 
 ---
 
@@ -110,14 +105,6 @@ Full Stack Developer Intern @ Prodigy Infotech
 
 This project is licensed under the **MIT License**.
 
-```
 
----
 
-### ✅ What to do next:
-- Replace the placeholders (`your-username`, `your-profile`, `your_mongo_uri`, etc.)
-- Let me know if you want to include **admin features** like product management or dashboard
-- I can also generate sample product schema, cart logic, and checkout API if you need it
 
-Want me to prepare a **starter GitHub repo** structure or **deployment guide (e.g., on Vercel + Render)**?
-```
